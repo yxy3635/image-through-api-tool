@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://api.example.com",
+  "apiKey": "sk-your-api-key",
+  "model": "gpt-image-1",
+  "timeout": 120
+}

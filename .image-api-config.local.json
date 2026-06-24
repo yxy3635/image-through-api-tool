@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://image.qzcy3.top/api/v1",
+  "apiKey": "",
+  "model": "gpt-image-2",
+  "timeout": 360
+}
